@@ -1,4 +1,8 @@
 _repo: Schetsen-uit-Zeeland-De-Aarde-en-haar-volken-Jaargang-1873_48669
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48669-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -9,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48669#Schetsen-uit-Zeeland-De-Aarde-en-haar-volken-Jaargang-1873
 gutenberg_issued: '2015-04-08'
 gutenberg_type: Text
 identifiers:
